@@ -1,0 +1,16 @@
+C:\dev\VS2022\ProjectSim\Source\Mouse.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Mouse.obj
+C:\dev\VS2022\ProjectSim\Source\Keyboard.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Keyboard.obj
+C:\dev\VS2022\ProjectSim\Source\ConstantBuffer.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\ConstantBuffer.obj
+C:\dev\VS2022\ProjectSim\Source\App.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\App.obj
+C:\dev\VS2022\ProjectSim\Source\Cube.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Cube.obj
+C:\dev\VS2022\ProjectSim\Source\Graphics.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Graphics.obj
+C:\dev\VS2022\ProjectSim\Source\IDrawable.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\IDrawable.obj
+C:\dev\VS2022\ProjectSim\Source\IndexBuffer.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\IndexBuffer.obj
+C:\dev\VS2022\ProjectSim\Source\InputLayout.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\InputLayout.obj
+C:\dev\VS2022\ProjectSim\Source\Main.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Main.obj
+C:\dev\VS2022\ProjectSim\Source\PixelShader.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\PixelShader.obj
+C:\dev\VS2022\ProjectSim\Source\VertexBuffer.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\VertexBuffer.obj
+C:\dev\VS2022\ProjectSim\Source\VertexShader.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\VertexShader.obj
+C:\dev\VS2022\ProjectSim\Source\Window.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Window.obj
+C:\dev\VS2022\ProjectSim\Source\Topology.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Topology.obj
+C:\dev\VS2022\ProjectSim\Source\Timer.cpp;C:\dev\VS2022\ProjectSim\bin-int\Debug-x64\Timer.obj
